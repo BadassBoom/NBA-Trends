@@ -16,7 +16,6 @@ This is a Python script that analyzes NBA games using data visualization techniq
 
 ```
 $ git clone https://github.com/BadassBoom/nba-games-analysis.git
-
 ```
 2. Move to the directory of the cloned repository
 
@@ -27,7 +26,6 @@ $ cd nba-games-analysis
 
 ```
 $ python nba_analysis.py
-
 ```
 
 The script will generate several visualizations and statistical analyses for NBA games. The data used for the analysis is in the **'nba_games.csv'** file.
